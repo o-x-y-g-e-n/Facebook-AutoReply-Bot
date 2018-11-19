@@ -9,14 +9,13 @@ This Script replies to all new messages one at a time. Respond to all messages i
 2) facebook-chat-api
 
 # How to make this work
-1) Fire 'npm install' to get all dependencies.
-2) Go to the config folder and open the default.json file in notepad
-3) Enter your Facebook Credentials there
-4) Enter the message you want to reply. For the data part ... ( Use '\n' for new line and '$name' to get sender name)
-5)-> Now Run 'script-win.exe' if windows.
+1) Go to the config folder and open the default.json file in notepad
+2) Enter your Facebook Credentials there
+3) Enter the message you want to reply. For the data part ... ( Use '\n' for new line and '$name' to get sender name)
+4)-> Now Run 'script-win.exe' if windows.
 -> Run 'script-macos' for mac.
 -> Run 'script-linux' if linux.
-6) Tada, It will reply to all new messages and then quit.
+5) Tada, It will reply to all new messages and then quit.
 
 # Some Points to note:
 I have made 2 similar programs for you.. Or both files will help you.
