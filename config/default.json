@@ -1,0 +1,7 @@
+{
+	"Credentials": {
+		"email": "dummy@dummy.com",
+		"password": "thisisnotmypassword",
+		"data": "Hello $name .... Thank you so much for your interest.The Property Mgmt Company is in the process of accepting applications. To get started, there is a three step process \n1) Complete the eligibility form (https://goo.gl/sp9Wzh),\n2) Complete Registration (with your email address - We will send you the link),and lastly\n3) Complete the application.\n\nPlease call if you have question $name.\nThank You!\nDouglas Group Realty | Keller Williams Central."
+	}
+}

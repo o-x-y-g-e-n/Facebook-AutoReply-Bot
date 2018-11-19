@@ -1,0 +1,22 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "script.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^2.0.1",
+    "domelementtype": "^1.2.1",
+    "facebook-chat-api": "^1.6.0",
+    "pkg": "^4.3.4",
+    "process": "^0.11.10"
+  },
+  "pkg": {
+    "scripts": "./facebook-chat-api/**/*.js"
+  }
+}
