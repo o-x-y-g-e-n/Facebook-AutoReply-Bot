@@ -78,8 +78,8 @@ The above scripts are designed to check for new messages every `10 minutes`. (Th
 *  Facebook has become very script about any third party software accessing your account ( Because of the data lick that happened recently). So i suggest you to run the script **manually** (whenever required) instead of setting up the cron job.
 
 ### Future Improvements 
-[ ] GUI
-[ ] Option to configure Cron Script Time
+- [ ] GUI
+- [ ] Option to configure Cron Script Time
 
 License
 ----
