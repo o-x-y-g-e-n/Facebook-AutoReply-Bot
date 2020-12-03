@@ -7,11 +7,9 @@ This is an utility to automate the responses to all the unread / new messages on
   - Respond to all the new messages on Facebook
   - Setup Cron (jobs) for continuous checking of new messages.
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
-
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+Project uses a number of open source projects to work properly:
 
 * [JavaScript] - HTML enhanced for web apps!
 * [facebook-chat-api] - Unofficial Facebook Chat API for Nodejs
@@ -24,7 +22,7 @@ Dillinger requires [Node.js](https://nodejs.org/) v8+ to run.
 Install the dependencies and devDependencies:
 
 ```sh
-$ cd dillinger
+$ cd facebook-autoreply-bot
 $ npm install -d
 ```
 
