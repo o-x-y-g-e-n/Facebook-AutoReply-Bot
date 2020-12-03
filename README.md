@@ -1,5 +1,6 @@
 # Facebook Auto-Reply Bot
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/o-x-y-g-e-n/Facebook-AutoReply-Bot)](https://GitHub.com/o-x-y-g-e-n/Facebook-AutoReply-Bot/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/o-x-y-g-e-n/badges/)
+
 This is an utility to automate the responses to all the unread / new messages on Facebook
 
   - Respond to all the unread messages on Facebook
